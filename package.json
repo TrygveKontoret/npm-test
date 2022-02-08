@@ -1,0 +1,7 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Trygve Grant <69842793+TrygveKontoret@users.noreply.github.com>",
+  "license": "MIT"
+}
